@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nag2mani@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kbhTwNgrYBAEMoYABkYYD-n2yB3e--GT/view?usp=sharing](https://drive.google.com/file/d/1kbhTwNgrYBAEMoYABkYYD-n2yB3e--GT/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/rGMNY](https://shorturl.at/rGMNY)
 
 - ⚡ Fun fact **In coding, a bug was named after a literal insect found in early computers.**
 
