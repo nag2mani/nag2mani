@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nag2mani&label=Profile%20views&color=0e75b6&style=flat" alt="nag2mani" /> </p>
 
-- 🔭 I’m currently working on [BiteBase](https://github.com/nag2mani/NewsFeed)
+- I’m currently working on [BiteBase](https://github.com/nag2mani/NewsFeed)
 
-- 📫 How to reach me **nag2mani@gmail.com**
+- How to reach me **nag2mani@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/rGMNY](https://shorturl.at/rGMNY)
+- Want to connect with me [Linkedin](https://linkedin.com/in/nag2mani)
 
 - ⚡ Fun fact **In coding, a bug was named after a literal insect found in early computers.**
 
