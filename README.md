@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nag2mani&show_icons=true&locale=en" alt="nag2mani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nag2mani&" alt="nag2mani" /></p>
-| **GitHub Stats**        | [![Nagmani's GitHub stats](https://github-readme-stats.vercel.app/api?username=nag2mani&show_icons=true&theme=transparent&rank_icon=percentile)](https://github.com/nag2mani) |
