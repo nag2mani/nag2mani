@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nag2mani&label=Total%20Profile%20views&color=0e75b6&style=flat" alt="nag2mani" /> </p>
 
-- I’m currently working on [AIJobPortalForFreshers](https://github.com/nag2mani/AIJobPortalForFreshers)
+- I’m currently working on [AI Rozgar](https://github.com/nag2mani/airozgar)
 
 - How to reach me **nag2mani@gmail.com**
 
