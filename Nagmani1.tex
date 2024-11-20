@@ -1,0 +1,153 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{array}
+\usepackage[top=0.5in, bottom=0.5in, left=0.5in, right=0.5in]{geometry}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}  % Removes the boxes around hyperlinks
+\usepackage{parskip}
+\usepackage{setspace}
+\usepackage{fontawesome} % For icons
+\usepackage{multicol} % For managing columns
+\usepackage{tabularx} % For better tables
+
+% Title formatting
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{*2}{*2}
+\titlespacing{\subsection}{0pt}{*2}{*2}
+
+% List settings
+\setlist{nosep, leftmargin=*}
+
+% Set font to sans-serif
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+\pagestyle{empty}
+
+% Contact Info at the top
+\begin{center}
+    \textbf{\huge Nagmani Kumar} \\[5pt]
+    \faEnvelope \, \href{mailto:nag2mani@gmail.com}{nag2mani@gmail.com} \hspace{2pt} $|$ \hspace{2pt}
+    \faLinkedinSquare \, \href{https://www.linkedin.com/in/nag2mani/}{LinkedIn} \hspace{2pt} $|$ \hspace{2pt}
+    \faGithub \, \href{https://github.com/nag2mani}{GitHub} \hspace{2pt} $|$ \hspace{2pt}
+    \faCode \, \href{https://leetcode.com/nag2mani/}{Leetcode}
+\end{center}
+
+% Education Section
+\section*{EDUCATION}
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Sitare University with SRMU, Lucknow} & \text{Course Completion - May'25} \\
+\textnormal{Bachelor of Technology in Computer Science and Engineering} & \\
+\end{tabularx}
+
+\vspace{5pt} % Adjust space as needed
+
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Jawahar Navodaya Vidyalaya and Dakshana Foundation, Bengaluru} & \text{Oct’15 – Aug’22} \\
+\textnormal{10th: 94.4 \%, 12th: 91.6 \% (PCM), IIT JEE 2022: 96.5 Percentile} & \\
+\end{tabularx}
+
+
+
+
+% Experience Section
+\section*{EXPERIENCE}
+
+% Experience 1
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Software Engineering Intern $|$ MeshWorks} & \text{May’24 – Aug’24} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Enhanced an Angular-based web application by resolving over 100 bugs, improving code efficiency, and adding new features such as a Text Editor and Tooltip for better customer assistance.
+    \item Technologies Utilized: JavaScript, TypeScript, Angular, .Net Core, MySQL, Git, Microsoft DevOps.
+\end{itemize}
+
+% Experience 2
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Software Testing Intern $|$ Beans.ai} & \text{Jun’23 – Aug’23} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Conducted comprehensive manual and automated testing for the Beansroute Mobile App and Web Console, enhanced Python-based automation to streamline quality assurance.
+    \item  Technologies Utilized: Python and its Library, Django, MySQL, Git and GitHub, GIS Technology.
+\end{itemize}
+
+% Experience 3
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Data Analysis Intern $|$ NOQS Digital Pvt. Ltd.} & \text{Apr’23 – Jun’23} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Utilized statistical methods and automation tools to analyze data, generated business insights, identified customer trends and prepared detailed performance dashboards for the founder.
+    \item Technologies Utilized: Python and its Library, Google Workspace, MySQL, Git, and GitHub.
+\end{itemize}
+
+
+% Projects Section
+\section*{PROJECTS}
+
+% Project 1
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Search Engine} \href{https://github.com/nag2mani/SearchEngines_and_InformationRetrieval/tree/main/search_engine}{\faExternalLink*} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Developed a search engine from scratch with web scraping, indexing, and ranking by Building tf-idf weighted vectors for each document and computed pairwise cosine similarity to rank documents.
+    \item {Tech Stack:} Python, Web Crawling, Cleaning, N-grams, SimHash, Ranking, NumPy, Pandas.
+\end{itemize}
+
+% Project 2
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Expense Management Software (For Client)} \href{https://github.com/nag2mani/SuryaShaktiEngineeringWorks}{\faExternalLink*} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Developed software for a client to manage expenses, funds, and inventory, with personalized dashboards for the Company where they can view and generate reports by date/category in xlsx format.
+    \item {Tech Stack:} HTML, CSS/Bootstrap, JS, Django, MySQL, Python, NumPy, Pandas.
+\end{itemize}
+
+% Project 3
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{BiteBase (Runner-up in SU Coder Hackathon)} \href{https://github.com/nag2mani/BiteBase}{\faExternalLink*} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Created a Django-based web application providing real-time information from various trusted sources, Features include contests, hackathons, job listings, and breaking news updates.
+    \item {Tech Stack:} HTML, CSS/Bootstrap, JS, Django, MySQL, Python, Machine Learning Algorithms.
+\end{itemize}
+
+
+% Skills Section
+\section*{TECHNICAL SKILLS}
+\begin{itemize}[leftmargin=4em]
+    \item \textbf{Programming Languages:} Python, Java, JavaScript.
+    \item \textbf{Python Libraries:} NumPy, Pandas, Matplotlib, PyTorch, Scikit-learn.
+    \item \textbf{Platforms/Tools:} Linux (Ubuntu), Git and GitHub, Microsoft Azure DevOps.
+    \item \textbf{Web Technologies:} HTML, CSS, Django, DRF, ReactJs, API, NodeJs, ExpressJs, SQL, MongoDB.
+\end{itemize}
+
+% Awards and Scholarships
+\section*{ACHIEVEMENTS/SCHOLARSHIPS}
+\begin{itemize}[leftmargin=4em]
+\item Awarded a 100\% scholarship for B.Tech-CSE at Sitare University.
+\item Got Letter of Recommendation by Founder and CEO of NOQs Digital Pvt. Ltd.
+\item Achieved a maximum contest rating of \textbf{1552} and solved \textbf{150+} problems on Leetcode.
+\item Made \textbf{20+} Pull Requests and \textbf{1000+} contributions across various repositories on GitHub.
+\end{itemize}
+
+
+% Extracurricular Activities Section
+\section*{EXTRACURRICULAR ACTIVITIES}
+\begin{itemize}[leftmargin=4em]
+\item Secretary of Startup and Business Club at Sitare University.
+\item College Representative and Center Head for JDST/NDST, Dakshana Foundation.
+\item Create Content on LinkedIn by sharing insights on Scholarships, Internships, and News with \textbf{15k+} Followers.
+\end{itemize}
+
+
+\end{document}
