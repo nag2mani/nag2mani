@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nag2mani&show_icons=true&locale=en" alt="nag2mani" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nag2mani&theme=dark)](https://git.io/streak-stats)
+<p><img src="https://streak-stats.demolab.com/?user=nag2mani&theme=dark"></p>
