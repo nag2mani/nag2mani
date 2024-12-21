@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nag2mani&show_icons=true&locale=en&layout=compact" alt="nag2mani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nag2mani&show_icons=true&locale=en" alt="nag2mani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nag2mani&amp;theme=calm_pink&amp;show_icons=true&amp;locale=en" alt="nag2mani" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=nag2mani" alt="GitHub Streak" /></a>
