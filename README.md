@@ -55,6 +55,6 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nag2mani&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nag2mani&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nag2mani&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nag2mani&theme=dark&layout=compact" alt="Top Languages" />
 </div>
