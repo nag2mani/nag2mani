@@ -4,18 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nag2mani&label=Total%20Profile%20views&color=0e75b6&style=flat" alt="nag2mani" /> </p>
 
-- 🔭 I’m currently Building [AI Rozgar](https://github.com/nag2mani/airozgar)
+- 🔭 I’m currently Building [AI Rozgar](https://github.com/nag2mani/airozgar) and [PPT Generator ](https://github.com/nag2mani/pptgenerator)
+  
+- 📫 How to reach me: **nag2mani@gmail.com**
 
 ### 🏢 Industry Experience
-- **Meshworks**: Enhanced an Angular-based web app by resolving 75+ bugs and added new features like a Text Editor and Tooltip for better customer assistance.
+- **Meshworks**: Improved an Angular web app by fixing over 75 bugs and adding new features such as a Text Editor and Tooltip to help customers.
 - **Beans.ai**: Enhanced manual and Python-based automated testing and worked with GIS technologies.
 - **NoQs Digital**: Designed detailed performance dashboards for the Founder to support better decision-making. 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nag2mani/nag2mani/output/snake.svg" alt="Snake animation" />
 
 ### 🛠️ Languages and Tools:
 <p align="center">
@@ -62,6 +58,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/nag2mani/output/snake.svg" alt="Snake animation" />
 
 ### 🎉 Extracurricular Activities
 - I enjoy reading and have completed over 20 books so far. My goal is to finish **150 books before I turn 30**.
