@@ -10,7 +10,7 @@
 
 
 ### 🏢 Industry Experience
-- **Meshworks**: Improved an Angular web app by fixing over 75 bugs and adding new features such as a Text Editor and Tooltip to help customers.
+- **Meshworks**: Improved a web app by fixing over 75 bugs and adding new features such as a Text Editor & Tooltip to help customers.
 - **Beans.ai**: Enhanced manual and Python-based automated testing and worked with GIS technologies.
 - **NoQs Digital**: Designed detailed performance dashboards for the Founder to support better decision-making. 
 
