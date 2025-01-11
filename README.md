@@ -62,12 +62,6 @@
   </a>
 </p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ### 🎉 Extracurricular Activities
 - I enjoy reading and have completed over 20 books so far. My goal is to finish **150 books before I turn 30**.
 
