@@ -13,6 +13,9 @@
 - **Beans.ai**: Enhanced manual and Python-based automated testing and worked with GIS technologies.
 - **NoQs Digital**: Designed detailed performance dashboards for the Founder to support better decision-making. 
 
+![User Contributions](https://raw.githubusercontent.com/nag2mani/nag2mani/main/github-user-contribution.svg)
+
+
 ### 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://www.python.org" target="_blank">
