@@ -4,13 +4,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nag2mani&label=Total%20Profile%20views&color=0e75b6&style=flat" alt="nag2mani" /> </p>
 
-- I’m currently Building [AI Rozgar](https://github.com/nag2mani/airozgar)
+- 🔭 I’m currently Building [AI Rozgar](https://github.com/nag2mani/airozgar)
 
-- How to reach me **nag2mani@gmail.com**
+- 📫 How to reach me: **nag2mani@gmail.com**
 
-- Want to connect with me [Linkedin](https://linkedin.com/in/nag2mani)
+- 🌐 Want to connect with me: [LinkedIn](https://linkedin.com/in/nag2mani)
 
-- ⚡ Fun fact **In coding, a bug was named after a literal insect found in early computers.**
+- ⚡ Fun fact: **In coding, a bug was named after a literal insect found in early computers.**
+
+### 🏢 Industry Experience
+- **Meshworks**: Enhanced an Angular-based web app by resolving 75+ bugs and added new features like a Text Editor and Tooltip for better customer assistance.
+- **Beans.ai**: Enhanced manual and Python-based automated testing and worked with GIS technologies.
+- **NoQs Digital**: Designed detailed performance dashboards for the Founder to support better decision-making.
+
+### 🛠️ Tools/Technologies
+- **Languages/Frameworks**: Python, Django, ReactJs, MySQL  
+- **Libraries/Tools**: NumPy, Pandas, Matplotlib, PyTorch, Scikit-learn, LangChain, Streamlit  
+- **Other Tools**: Linux (Ubuntu), Git/GitHub, Azure DevOps  
+
+### 🎉 Extracurricular Activities
+- I enjoy reading and have completed over 20 books so far. My goal is to finish **150 books before I turn 30**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
