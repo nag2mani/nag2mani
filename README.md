@@ -15,23 +15,10 @@
 ### 🏢 Industry Experience
 - **Meshworks**: Enhanced an Angular-based web app by resolving 75+ bugs and added new features like a Text Editor and Tooltip for better customer assistance.
 - **Beans.ai**: Enhanced manual and Python-based automated testing and worked with GIS technologies.
-- **NoQs Digital**: Designed detailed performance dashboards for the Founder to support better decision-making.
-
-### 🛠️ Tools/Technologies
-- **Languages/Frameworks**: Python, Django, ReactJs, MySQL  
-- **Libraries/Tools**: NumPy, Pandas, Matplotlib, PyTorch, Scikit-learn, LangChain, Streamlit  
-- **Other Tools**: Linux (Ubuntu), Git/GitHub, Azure DevOps  
+- **NoQs Digital**: Designed detailed performance dashboards for the Founder to support better decision-making. 
 
 ### 🎉 Extracurricular Activities
 - I enjoy reading and have completed over 20 books so far. My goal is to finish **150 books before I turn 30**.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nag2mani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nag2mani" height="30" width="40" /></a>
-<a href="https://kaggle.com/nagmanikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nagmanikumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nag2mani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nag2mani" height="30" width="40" /></a>
-</p>
 
 
 ### 🛠️ Languages and Tools:
