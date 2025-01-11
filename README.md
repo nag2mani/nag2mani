@@ -8,12 +8,14 @@
   
 - 📫 How to reach me: **nag2mani@gmail.com**
 
+
 ### 🏢 Industry Experience
 - **Meshworks**: Improved an Angular web app by fixing over 75 bugs and adding new features such as a Text Editor and Tooltip to help customers.
 - **Beans.ai**: Enhanced manual and Python-based automated testing and worked with GIS technologies.
 - **NoQs Digital**: Designed detailed performance dashboards for the Founder to support better decision-making. 
 
-### 😢 OMG, Snake is Eating my Contribution
+
+###😢 OMG, The snake is eating my contributions!
 ![User Contributions](https://raw.githubusercontent.com/nag2mani/nag2mani/main/github-user-contribution.svg)
 
 
@@ -63,8 +65,10 @@
   </a>
 </p>
 
+
 ### 🎉 Extracurricular Activities
 - I enjoy reading and have completed over 20 books so far. My goal is to finish **150 books before I turn 30**.
+
 
 ### 📊 GitHub Stats:
 <div align="center">
