@@ -6,16 +6,16 @@
 
 - 🔭 I’m currently Building [AI Rozgar](https://github.com/nag2mani/airozgar)
 
-- 📫 How to reach me: **nag2mani@gmail.com**
-
-- 🌐 Want to connect with me: [LinkedIn](https://linkedin.com/in/nag2mani)
-
-- ⚡ Fun fact: **In coding, a bug was named after a literal insect found in early computers.**
-
 ### 🏢 Industry Experience
 - **Meshworks**: Enhanced an Angular-based web app by resolving 75+ bugs and added new features like a Text Editor and Tooltip for better customer assistance.
 - **Beans.ai**: Enhanced manual and Python-based automated testing and worked with GIS technologies.
 - **NoQs Digital**: Designed detailed performance dashboards for the Founder to support better decision-making. 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nag2mani/nag2mani/output/snake.svg" alt="Snake animation" />
 
 ### 🛠️ Languages and Tools:
 <p align="center">
