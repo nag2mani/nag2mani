@@ -66,10 +66,6 @@
 </p>
 
 
-### 🎉 Extracurricular Activities
-- I enjoy reading and have completed over 20 books so far. My goal is to finish **150 books before I turn 30**.
-
-
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nag2mani&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" />
