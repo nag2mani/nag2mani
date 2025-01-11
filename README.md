@@ -15,7 +15,7 @@
 - **NoQs Digital**: Designed detailed performance dashboards for the Founder to support better decision-making. 
 
 
-### 😢 OMG, The snake is eating my contributions!
+### 😢 Snake is Eating My Contributions!
 ![User Contributions](https://raw.githubusercontent.com/nag2mani/nag2mani/main/github-user-contribution.svg)
 
 
