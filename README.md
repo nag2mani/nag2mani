@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nag2mani&label=Total%20Profile%20views&color=0e75b6&style=flat" alt="nag2mani" /> </p>
 
-- 🔭 I’m currently Building [AI Rozgar](https://github.com/nag2mani/airozgar) and [PPT Generator ](https://github.com/nag2mani/pptgenerator)
+- 🔭 I’m currently Building [AI Rozgar](https://github.com/nag2mani/airozgar) and [PPT Generator ](https://github.com/nag2mani/PowerPointGenerator)
   
 - 📫 How to reach me: **nag2mani@gmail.com**
 
@@ -13,6 +13,7 @@
 - **Beans.ai**: Enhanced manual and Python-based automated testing and worked with GIS technologies.
 - **NoQs Digital**: Designed detailed performance dashboards for the Founder to support better decision-making. 
 
+### 😢 OMG, Snake is Eating my Contribution
 ![User Contributions](https://raw.githubusercontent.com/nag2mani/nag2mani/main/github-user-contribution.svg)
 
 
