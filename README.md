@@ -14,8 +14,6 @@
 - **Beans.ai**: Enhanced manual and Python-based automated testing and worked with GIS technologies.
 - **NoQs Digital**: Designed detailed performance dashboards for the Founder to support better decision-making. 
 
-
-### 😢 Snake is Eating My Contributions!
 ![User Contributions](https://raw.githubusercontent.com/nag2mani/nag2mani/main/github-user-contribution.svg)
 
 
