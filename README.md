@@ -67,6 +67,6 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nag2mani&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" />
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S2377&show_icons=true&locale=en" alt="S2377" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nag2mani&" alt="Nagmani" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nag2mani&theme=dark&layout=compact" alt="Top Languages" />
 </div>
