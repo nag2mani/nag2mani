@@ -65,8 +65,9 @@
 
 
 ### 📊 GitHub Stats:
+
+<p> <img src="https://github-readme-streak-stats.herokuapp.com?user=nag2mani&card_width=600" alt="GitHub Streak" /> </p>
+
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nag2mani&show_icons=true&locale=en&layout=compact" alt="nag2mani" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nag2mani&show_icons=true&locale=en" alt="nag2mani" /></p>
-
-<p> <img src="https://github-readme-streak-stats.herokuapp.com?user=nag2mani&card_width=600" alt="GitHub Streak" /> </p>
