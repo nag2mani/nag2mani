@@ -66,7 +66,7 @@
 
 ### 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nag2mani&card_width=600)](https://git.io/streak-stats)
+<p> <img align="center" src="https://git-hub-streak-stats.vercel.app?user=nag2mani" alt="GitHub Streak" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nag2mani&show_icons=true&locale=en" alt="nag2mani" /></p>
 
