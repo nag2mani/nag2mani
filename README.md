@@ -13,14 +13,6 @@
 ---
 
 
-<h3 align="center">Think from Zero, Think Beyond Trends, Disrupt the Trend</h3>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c6492d2d-a41f-48a9-8dee-13ba4c926866" alt="Banner" width="100%"/>
-</p>
-
----
-
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
@@ -46,6 +38,50 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
 </p>
+
+---
+
+
+<h3 align="center">Think from Zero, Think Beyond Trends, Disrupt the Trend</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6492d2d-a41f-48a9-8dee-13ba4c926866" alt="Banner" width="100%"/>
+</p>
+
+---
+
+<h2 align="center">Experience</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>MESH Works</b><br>
+      <em>Software Development Engineer Intern</em><br>
+      • Resolved 75+ bugs and enhanced an Angular-based web app.<br>
+      • Improved performance & added features like Text Editor & Tooltip.
+    </td>
+    <td align="center" width="50%">
+      <b>Beans.ai</b><br>
+      <em>Software Development Engineer Intern</em><br>
+      • Conducted manual & automated testing on mobile and web apps.<br>
+      • Enhanced Python-based automation for QA workflows.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>NoQs Digital</b><br>
+      <em>Data Analyst Intern</em><br>
+      • Analyzed data using automation tools and Google Workspace.<br>
+      • Built dashboards & identified customer trends for decision-making.
+    </td>
+    <td align="center" width="50%">
+      <b>Build Fast with AI</b><br>
+      <em>Founder's Office Intern</em><br>
+      • Worked directly with the founder on strategy & outreach.<br>
+      • Reduced CAC, scaled operations, and led outreach efforts.
+    </td>
+  </tr>
+</table>
 
 ---
 
