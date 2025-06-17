@@ -90,5 +90,4 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://git-hub-streak-stats.vercel.app?user=nag2mani&theme=default&hide_border=true" alt="GitHub Streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=nag2mani&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nag2mani&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" height="150"/>
 </div>
