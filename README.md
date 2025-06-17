@@ -6,19 +6,22 @@
   <img src="https://komarev.com/ghpvc/?username=nag2mani&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" width="200"/>
 </p>
 
-<!-- Contribution Graph -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/nag2mani/nag2mani/main/github-user-contribution.svg" alt="User Contributions" width="100%" />
 </p>
 
-<!-- Banner -->
+---
+
+
+<h3 align="center">🚀 Explore My Journey & Projects</h3>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c6492d2d-a41f-48a9-8dee-13ba4c926866" alt="Banner" width="100%"/>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
   <!-- Programming Languages -->
@@ -46,7 +49,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://git-hub-streak-stats.vercel.app?user=nag2mani&theme=default&hide_border=true" alt="GitHub Streak" height="150"/>
