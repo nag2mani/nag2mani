@@ -41,15 +41,6 @@
 
 ---
 
-
-<h3 align="center">Think from Zero, Think Beyond Trends, Disrupt the Trend</h3>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c6492d2d-a41f-48a9-8dee-13ba4c926866" alt="Banner" width="100%"/>
-</p>
-
----
-
 <h2 align="center">Experience</h2>
 
 <table align="center">
