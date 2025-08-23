@@ -6,13 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=nag2mani&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" width="200"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nag2mani/nag2mani/main/github-user-contribution.svg" alt="User Contributions" width="100%" />
-</p>
-
----
-
-
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
