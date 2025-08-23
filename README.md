@@ -24,8 +24,8 @@
 
   <!-- Tools & Platforms -->
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="40" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(180deg);"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/apple-logo.png" alt="macOS" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
   </span>
 </p>
 
