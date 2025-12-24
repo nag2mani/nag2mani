@@ -1,5 +1,5 @@
 <h1 align="center">Nagmani Kumar</h1>
-<h3 align="center">Let’s connect if you are passionate about AI, Finance, Startups, or Just Love Books.</h3>
+<h3 align="center">Passionate about AI, Finance, Startups, and Love Reading Books</h3>
 
 <!-- Profile Views -->
 <p align="center">
