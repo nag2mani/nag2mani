@@ -28,7 +28,7 @@
   </span>
 </p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<!-- <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://git-hub-streak-stats.vercel.app?user=nag2mani&theme=default&hide_border=true" alt="GitHub Streak" height="150"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nag2mani&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" height="150"/> -->
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=nag2mani&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" height="150"/>
+</div> -->
