@@ -1,0 +1,150 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{array}
+\usepackage[top=0.5in, bottom=0.5in, left=0.5in, right=0.5in]{geometry}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}  % Removes the boxes around hyperlinks
+\usepackage{parskip}
+\usepackage{setspace}
+\usepackage{fontawesome} % For icons
+\usepackage{multicol} % For managing columns
+\usepackage{tabularx} % For better tables
+\usepackage{amsmath} % For \text command
+% Title formatting
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{*2}{*2}
+\titlespacing{\subsection}{0pt}{*2}{*2}
+
+% List settings
+\setlist{nosep, leftmargin=*}
+
+% Set font to sans-serif
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+\pagestyle{empty}
+
+% Contact Info at the top
+\begin{center}
+    \textbf{\huge Nagmani Kumar} \\[5pt]
+    \faEnvelope \, \href{mailto:nag2mani@gmail.com}{nag2mani@gmail.com} \hspace{2pt} $|$ \hspace{2pt}
+    \faLinkedinSquare \, \href{https://www.linkedin.com/in/nag2mani/}{LinkedIn} \hspace{2pt} $|$ \hspace{2pt}
+    \faGithub \, \href{https://github.com/nag2mani}{GitHub} \hspace{2pt} $|$ \hspace{2pt}
+    \faCode \, \href{https://leetcode.com/nag2mani/}{Leetcode}
+\end{center}
+
+% Education Section
+\section*{EDUCATION}
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Sitare University} & \text{Aug 2022 – May 2026} \\
+\textnormal{B.Tech CSE, CGPA : 8.40} & \\
+\end{tabularx}
+
+\vspace{5pt} % Adjust space as needed
+
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Jawahar Navodaya Vidyalaya and Dakshana Foundation} & \text{Jul 2015 – Mar 2022} \\
+\textnormal{10th: 94.4\%, 12th: 91.6\% , IIT JEE 2022: 96.5 Percentile} & \\
+\end{tabularx}
+
+
+
+
+% Experience Section
+\section*{EXPERIENCE}
+
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Software Development Engineer $|$ Indihood} & \text{Jun 2025 – Present} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Improving the Loan App platform, covering the full lifecycle from loan initiation to disbursal and repayment.
+    \item Developing scalable APIs and robust automation test suites in Dart to significantly reduce manual testing time.
+    \item Technologies Utilized: Dart, TypeScript, Flutter, Protobuf, Exalt, Jira.
+\end{itemize}
+
+% Experience 1
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Software Development Engineer Intern $|$ MeshWorks} & \text{Jun 2024 – Aug 2024} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Enhanced an Angular-based web application by resolving over 75 bugs, Improved code efficiency by 20\%.
+    \item Added Tooltips and Text Editors replacing the Textarea to improve customer assistance.
+    \item Technologies Utilized: TypeScript, Angular, MySQL, Git/GitHub, Microsoft DevOps.
+\end{itemize}
+
+% Experience 2
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Software Development Engineer Intern $|$ Beans.ai} & \text{Jun 2023 – Aug 2023} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Designed 100+ Figma screens visualizing optimized delivery routes and geospatial data across U.S. streets.
+    \item Implemented new features and fixed critical bugs to improve performance and reliability of the Beans Route app.
+    \item Technologies Utilized: JavaScript, Python, Django, MySQL, Git/GitHub, GIS (ArcGIS).
+\end{itemize}
+
+
+
+% Projects Section
+\section*{PROJECTS}
+
+% Project 1
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Reporting Engine for Large Data} \href{https://github.com/nag2mani/ReportingEngine-for-LargeData}{\faExternalLink*} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Built a scalable reporting engine handling millions of records with multi-tenant isolation, and fine-grained RBAC.
+    \item Implemented real-time dashboard reports with caching and optimized queries for high-performance analytics.
+    \item {Tech Stack:} NestJS, TypeScript, PostgreSQL, Redis, TypeORM, React, Docker, Kubernetes.
+\end{itemize}
+
+% Project 2
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{PowerPoint Generator} \href{https://github.com/nag2mani/PowerPointGenerator}{\faExternalLink*} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item API-based system to generate PPTX presentations from user inputs like topic, slide count, and user-defined content.
+    \item Designed modular REST endpoints for presentation creation, retrieval, configuration, and download.
+    \item {Tech Stack:} Python, FastAPI, Google Gemini API, python-pptx, HTML/CSS, JavaScript.
+\end{itemize}
+
+% Project 3
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Search Engine Implementation} \href{https://github.com/nag2mani/SearchEngines_and_InformationRetrieval/tree/main/search_engine}{\faExternalLink*} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Developed a search engine from scratch using web scraping, indexing, and ranking by Building tf-idf weighted vectors for each document and computed pairwise cosine similarity to rank documents.
+    \item {Tech Stack:} Python (NumPy, Pandas), Web Scraping, Text Cleaning, N-grams, SimHash, Information Retrieval.
+\end{itemize}
+
+% Skills Section
+\section*{TECHNICAL SKILLS}
+\begin{itemize}[leftmargin=4em]
+    \item \textbf{Programming Languages:} Python, Java, Dart, and TypeScript.
+    \item \textbf{DevOps \& Cloud:} Docker, Kubernetes, Google Cloud Platform, CI/CD.
+    \item \textbf{Databases \& Caching:} PostgreSQL, MySQL, MongoDB, Redis.
+    \item \textbf{Tools \& Platforms:} Git/GitHub, Jira, Microsoft Azure DevOps, Figma, Linux (Ubuntu).
+    \item \textbf{Full-Stack Development:} ReactJs, NodeJs, Django, Flutter, HTML, CSS, JavaScript, RESTful APIs, Protobuf.
+\end{itemize}
+
+% Awards and Scholarships
+\section*{ACHIEVEMENTS / SCHOLARSHIPS}
+\begin{itemize}[leftmargin=4em]
+    \item Selected as a scholar at a premier residential school under the \textbf{Ministry of Education, Government of India}.
+    \item Selected as a Dakshana Scholar, with full sponsorship for 2 years of IIT-JEE coaching at JNV Bengaluru Urban.
+    \item Received Letters of Recommendation from startup founders and a \textbf{Senior Vice President at Google}.
+    \item Secured paid SDE internships in 1st and 2nd years of college, and received a full-time SDE offer in third year.
+    \item Awarded a 100\% merit-based scholarship covering full tuition, accommodation, food, and living expenses for the four-year B.Tech in Computer Science and Engineering at Sitare University.
+\end{itemize}
+
+
+\end{document}
