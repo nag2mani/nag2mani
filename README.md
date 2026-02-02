@@ -1,5 +1,5 @@
 <h1 align="center">Nagmani Kumar</h1>
-<h3 align="center">Intersecting AI, Finance & Programming, and Love Reading Books</h3>
+<h3 align="center">Building at the intersection of AI & Finance | Founder’s Library Reader</h3>
 
 <!-- Profile Views -->
 <p align="center">
@@ -22,7 +22,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   </span>
 
