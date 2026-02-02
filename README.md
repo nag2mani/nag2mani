@@ -1,5 +1,5 @@
 <h1 align="center">Nagmani Kumar</h1>
-<h3 align="center">Building at the intersection of AI & Finance | Founder’s Library Reader</h3>
+<h3 align="center">Learning by Building at the intersection of AI & Finance | Founder’s Library Reader</h3>
 
 <!-- Profile Views -->
 <p align="center">
