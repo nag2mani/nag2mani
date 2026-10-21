@@ -1,11 +1,6 @@
 <h1 align="center">Nagmani Kumar</h1>
 <h3 align="center">Learning by Building | Founder’s Library Reader</h3>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nag2mani&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" width="200"/>
-</p>
-
 <p align="center">
   <!-- Programming Languages -->
   <span>
