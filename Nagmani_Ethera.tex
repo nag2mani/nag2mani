@@ -1,0 +1,159 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{array}
+\usepackage[top=0.5in, bottom=0.5in, left=0.5in, right=0.5in]{geometry}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}  % Removes the boxes around hyperlinks
+\usepackage{parskip}
+\usepackage{setspace}
+\usepackage{fontawesome} % For icons
+\usepackage{multicol} % For managing columns
+\usepackage{tabularx} % For better tables
+\usepackage{amsmath} % For \text command
+% Title formatting
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{*2}{*2}
+\titlespacing{\subsection}{0pt}{*2}{*2}
+
+% List settings
+\setlist{nosep, leftmargin=*}
+
+% Set font to sans-serif
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+\pagestyle{empty}
+
+% Contact Info at the top
+\begin{center}
+    \textbf{\huge Nagmani Kumar} \\[5pt]
+    \faEnvelope \, \href{mailto:nag2mani@gmail.com}{nag2mani@gmail.com} \hspace{2pt} $|$ \hspace{2pt}
+    \faLinkedinSquare \, \href{https://www.linkedin.com/in/nag2mani/}{LinkedIn} \hspace{2pt} $|$ \hspace{2pt}
+    \faGithub \, \href{https://github.com/nag2mani}{GitHub} \hspace{2pt} $|$ \hspace{2pt}
+    \faCode \, \href{https://leetcode.com/nag2mani/}{Leetcode}
+\end{center}
+
+% Summary Section
+\section*{SUMMARY}
+Backend-focused Software Engineer building REST APIs and transactional workflows for a production fintech lending platform at an early-stage startup.
+Codebase owner at Indihood. Hands-on with TypeScript/Node.js (NestJS), Python (FastAPI), PostgreSQL, Redis caching, Docker, Kubernetes, GCP and GitHub Actions CI/CD; strong in data modeling,
+indexing, query optimization and system design, and eager to work in Go, MongoDB and Redis-backed queues.
+
+% Experience Section
+\section*{EXPERIENCE}
+
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Software Development Engineer $|$ Indihood} & \text{Jun 2026 – Present} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Building backend services and REST APIs for a digital lending platform that powers the complete loan lifecycle, from application and underwriting to disbursal and repayment.
+    \item Designing configurable, real-time lending workflows that let financial institutions customize loan products at scale, with Protobuf-defined service contracts between frontend and backend.
+    \item Developing automation test suites in Dart that reduce manual testing effort and catch regressions in critical, money-moving lending flows before production.
+    \item Codebase owner: drive architecture decisions, review code, and ship features end-to-end from requirement and API design to deployment and production in a fast-paced startup team.
+    \item Run and manage jobs on Google Cloud Platform (GCP) and automate build, test and deployment pipelines with GitHub Actions CI/CD.
+    \item Technologies Utilized: TypeScript, Dart, Flutter, Protobuf, Exalt, GCP, GitHub Actions, Git, Jira.
+\end{itemize}
+
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Software Development Engineer Intern $|$ MeshWorks} & \text{Jun 2024 – Aug 2024} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Debugged and resolved 75+ production bugs in an Angular + MySQL web application, improving code efficiency by 20\%.
+    \item Integrated frontend features with backend APIs, adding tooltips and rich-text editors to improve customer assistance.
+    \item Technologies Utilized: TypeScript, Angular, MySQL, Git/GitHub, Azure DevOps.
+\end{itemize}
+
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Software Development Engineer Intern $|$ Beans.ai} & \text{Jun 2023 – Aug 2023} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Implemented new features and fixed critical bugs in the Django backend of the Beans Route app, improving performance and reliability.
+    \item Designed 100+ Figma screens visualizing optimized delivery routes and geospatial data across U.S. streets.
+    \item Technologies Utilized: Python, Django, MySQL, JavaScript, Git/GitHub, GIS (ArcGIS).
+\end{itemize}
+
+% Projects Section
+\section*{PROJECTS}
+
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Reporting Engine for Large Data} \href{https://github.com/nag2mani/ReportingEngine-for-LargeData}{\faExternalLink*} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Built a multi-tenant reporting backend designed for 1,000 schools and 2M+ students with millions of fee bills and payments, with data isolation per tenant.
+    \item Cut dashboard load times with Redis caching (TTL-based keys scoped by filters and user context) and composite indexes tuned to common query patterns.
+    \item Implemented RBAC with action-level and field-level permissions, API rate limiting, paginated/filterable REST endpoints, and an OLTP$\rightarrow$OLAP sync design.
+    \item {Tech Stack:} Node.js, NestJS, TypeScript, PostgreSQL, Redis, TypeORM, React, Docker, Kubernetes.
+\end{itemize}
+
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Batwara -- Expense Splitting \& Lending Ledger} \href{https://github.com/nag2mani/batwara}{\faExternalLink*} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Built a ledger-style app for group expenses and loans with equal/exact/percentage splits and a Splitwise-style debt-simplification algorithm.
+    \item Modeled the PostgreSQL schema with row-level security policies, triggers and helper functions; designed a peer-validation workflow with voting thresholds and expiry windows.
+    \item {Tech Stack:} TypeScript, React Native, Supabase (PostgreSQL, Auth).
+\end{itemize}
+
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{PowerPoint Generator} \href{https://github.com/nag2mani/PowerPointGenerator}{\faExternalLink*} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Designed modular REST endpoints for creating, configuring, retrieving and downloading PPTX presentations generated by an LLM from a topic, slide count and custom content.
+    \item {Tech Stack:} Python, FastAPI, Google Gemini API, python-pptx, HTML/CSS, JavaScript.
+\end{itemize}
+
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Search Engine Implementation} \href{https://github.com/nag2mani/SearchEngines_and_InformationRetrieval/tree/main/search_engine}{\faExternalLink*} \\
+\end{tabularx}
+\begin{itemize}[leftmargin=4em]
+    \item Built a search engine from scratch with web crawling, inverted indexing, tf-idf vectors and cosine-similarity ranking, plus SimHash for near-duplicate detection.
+    \item {Tech Stack:} Python (NumPy, Pandas), Web Scraping, N-grams, SimHash, Information Retrieval.
+\end{itemize}
+
+% Skills Section
+\section*{TECHNICAL SKILLS}
+\begin{itemize}[leftmargin=4em]
+\item \textbf{Languages:} TypeScript, JavaScript, Python, Java, Dart, Kotlin.
+\item \textbf{Backend \& Frameworks:} Node.js, NestJS, FastAPI, Django, REST APIs, Protobuf, React, Angular, Flutter.
+\item \textbf{Databases \& Caching:} PostgreSQL, MySQL, Redis, TypeORM, Supabase; schema design, indexing, query optimization.
+\item \textbf{Cloud \& DevOps:} GCP, Docker, Kubernetes, GitHub Actions (CI/CD), Git, GitHub, Azure DevOps, Linux (Ubuntu), Jira, Claude Code.
+\item \textbf{AI/ML:} LLMs, RAG, AI Agents, LangChain, Embeddings, ChromaDB, Ollama, Gemini.
+\item \textbf{Core Concepts:} Data Structures \& Algorithms, System Design, Concurrency, Caching, OS, Computer Networks, DBMS, OOP.
+\end{itemize}
+
+% Education Section
+\section*{EDUCATION}
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Shri Ramswaroop Memorial University [Left NIT Warangal]} & \text{Aug 2022 – May 2026} \\
+\textnormal{B.Tech CSE, Last 3 SGPA : 8.40, 9.00, 9.00} & \\
+\end{tabularx}
+
+\vspace{5pt}
+
+\noindent
+\begin{tabularx}{\textwidth}{Xr}
+\textbf{Jawahar Navodaya Vidyalaya and Dakshana Foundation} & \text{Jul 2015 – Mar 2022} \\
+\textnormal{10th: 94.4\%, 12th: 91.6\%, IIT JEE 2022: 96.5 Percentile} & \\
+\end{tabularx}
+
+% Achievements & Leadership Section
+\section*{ACHIEVEMENTS \& LEADERSHIP}
+\begin{itemize}[leftmargin=4em]
+\item Completed 100+ pull requests and 1500+ contributions across multiple open-source repositories on GitHub.
+\item Secured paid software development internships from the first year of college; received Letters of Recommendation from startup founders and a Senior Vice President at Google.
+\item Awarded a 100\% scholarship for the 4-year B.Tech in Computer Science and Engineering at Sitare University.
+\item Secretary of the Startup and Business Club at Sitare University; College Representative and Center Head for JDST/NDST under the Dakshana Foundation.
+\item Create LinkedIn content on scholarships, internships and finance, reaching an audience of 19,000+.
+\end{itemize}
+
+\end{document}
